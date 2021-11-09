@@ -24,6 +24,17 @@ Template : https://themewagon.com/themes/free-exciting-bootstrap-5-html5-ui-kits
 
 ![Alert success](https://user-images.githubusercontent.com/65702027/140854900-5a47ffd5-6848-48ee-9cff-d2609c74bfc7.png)
 
+<br>
+<h2>Halaman Keranjang Peminjaman Buku</h2>
+
+![Keranjang](https://user-images.githubusercontent.com/65702027/140855536-cd0211b3-ec96-4a82-a934-533a70f56f54.png)
+
+<br>
+<h2>Halaman Histori Peminjaman Buku</h2>
+
+![Histori peminjaman buku](https://user-images.githubusercontent.com/65702027/140855568-fec122fb-c08e-4da9-83c3-e1b52a5f8557.png)
+
+
 
 <br>
 <h2>Halaman Edit Buku</h2>
