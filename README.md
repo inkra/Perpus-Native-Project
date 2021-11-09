@@ -49,3 +49,10 @@ Template : https://themewagon.com/themes/free-exciting-bootstrap-5-html5-ui-kits
 <h2>Halaman Edit Buku</h2>
 
 ![Edit buku](https://user-images.githubusercontent.com/65702027/140854919-bc406716-e9a6-456d-b0bb-f5ec46182820.png)
+
+
+<br>
+<h2>Halaman Tampil Siswa</h2>
+
+![Tampil siswa](https://user-images.githubusercontent.com/65702027/140856698-25cdc036-91d6-459f-ab79-7d16cafdfe01.png)
+
